@@ -1,16 +1,20 @@
-### Hi there 👋
+### It's Roya
 
-<!--
-**royamdi/royamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor of Science in Applied Mathematics from Amirkabir University of Technology
 
-Here are some ideas to get you started:
+### Profile
+Experienced in developing Machine Learning & Deep Learning models, focusing on Computational Neuroscience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Notable projects include:
+- [Brain Tumor Detection](https://github.com/royamdi/MRI-Brain-Tumor-Detection), Income Prediction, [Breast Cancer Detection](https://github.com/royamdi/Breast-Cancer-Diagnosis), , and [Graph Trees](https://github.com/royamdi/SegmentTree) with `Python`.
+- Investigating prevalence of balanced and imbalanced brain networks during fear-inducing emotional processing, using `Python`.
+- Developed an Android application for an online shop named [**Fritillaria Store**](https://github.com/royamdi/fritillaria-store), using `Java`.
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=royamdi&layout=compact"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royamdi"/>
+</div>
